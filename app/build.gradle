@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "com.card.mardawang.bankcarddemo"
+        applicationId "com.mardawang.android.videodemo"
         minSdkVersion 15
         targetSdkVersion 25
         versionCode 1
@@ -25,5 +25,6 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
     compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.github.open-android:IjkPlayer:1.0.0'
     testCompile 'junit:junit:4.12'
 }

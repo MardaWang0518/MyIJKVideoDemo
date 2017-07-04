@@ -1,4 +1,4 @@
-package com.card.mardawang.bankcarddemo;
+package com.mardawang.android.ijkdemo;
 
 import org.junit.Test;
 

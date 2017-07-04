@@ -1,4 +1,4 @@
-package com.card.mardawang.bankcarddemo;
+package com.mardawang.android.ijkdemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.card.mardawang.bankcarddemo", appContext.getPackageName());
+        assertEquals("com.mardawang.android.videodemo", appContext.getPackageName());
     }
 }
