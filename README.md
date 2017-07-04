@@ -1,10 +1,6 @@
 # MyIJKVideoDemo
 根据bilibili开源的ijkplayer框架实现的一个视频播放的简单demo
 
-# 运行页面
-
-![](show01.mp4)
-
 
 ## 使用步骤
 
