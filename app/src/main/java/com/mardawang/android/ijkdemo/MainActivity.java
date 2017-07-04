@@ -22,8 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void initPlayer() {
         mPlayerView = (IjkPlayerView) findViewById(R.id.player_view);
-        mUri = Uri.parse("http://covertness.qiniudn" +
-                ".com/android_zaixianyingyinbofangqi_test_baseline.mp4");
+        mUri = Uri.parse("http://2449.vod.myqcloud.com/2449_22ca37a6ea9011e5acaaf51d105342e3.f20.mp4");
 
         mPlayerView.init()
                 .setVideoPath(mUri)
